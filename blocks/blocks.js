@@ -5,7 +5,7 @@ Blockly.defineBlocksWithJsonArray([
   "args0": [
 
   ],
-  "output": "Number",
+  "output": "Boolean",
   "colour": "#3498DB",
   "tooltip": "",
   "helpUrl": ""
@@ -16,7 +16,7 @@ Blockly.defineBlocksWithJsonArray([
   "args0": [
 
   ],
-  "output": "Number",
+  "output": "String",
   "colour": "#3498DB",
   "tooltip": "",
   "helpUrl": ""
